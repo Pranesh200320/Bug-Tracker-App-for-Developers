@@ -6,7 +6,7 @@ A full-stack bug tracking application built using *React (Bolt)* for the fronten
 
 ## 🚀 Live Demo
 
-🌐 [Live Site](https://bug-management-system.netlify.app/)  
+🌐 [Live Site](https://bug-management-system.netlify.app/) 
 
 ---
 
