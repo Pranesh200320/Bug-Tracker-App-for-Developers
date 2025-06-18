@@ -37,5 +37,3 @@ A full-stack bug tracking application built using *React (Bolt)* for the fronten
 | Charts     | Chart.js / Recharts (for dashboard) |
 
 ---
-
-## 🧱 Project Structure
